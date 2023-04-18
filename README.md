@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align = "center">Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h2 align = "center">Меня зовут Катя, я начинающий frontend-разработчик</h2>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <!--
 **ketrindan/ketrindan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
