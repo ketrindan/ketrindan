@@ -1,7 +1,7 @@
-<h1 align = "center">Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<p align = "center">Меня зовут Катя, я начинающий frontend-разработчик</p>
+<h1 align="center">Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h2 align="center">Меня зовут Катя, я начинающий frontend-разработчик</h2>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align = "center" width="320px">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px" align="center">
 
 <!--
 **ketrindan/ketrindan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
