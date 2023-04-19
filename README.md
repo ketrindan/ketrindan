@@ -11,16 +11,14 @@
 
 ## 🛠️ Мой стек
 
-<div width=100%>
-
 <p align="right" justify="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px"/></p>
 
-<p width="50%">
+<p>
 <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React"/>
 <img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue&style=plastic" alt="CSS"/>
-<img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js"/> <br>
 <img src="https://img.shields.io/badge/Webpack-grey?logo=webpack&style=plastic" alt="Webpack"/>
 <img src="https://img.shields.io/badge/Postman-grey?logo=postman&style=plastic" alt="Postman"/>
 <img src="https://img.shields.io/badge/Git-grey?logo=git&style=plastic" alt="Git"/>
@@ -44,7 +42,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ketrindan&show_icons=true&theme=dark&background=000000" height="170px" alt="github-stats"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindan&layout=compact&theme=dark&background=000000" height="170px" alt="top-langs-stats"/></p>
 
-<p align="center">![Codewars](https://www.codewars.com/users/KetrinDan/badges/large)</p>
+<p align="center"><img src="https://www.codewars.com/users/KetrinDan/badges/large" alt="codewars"/></p>
 
 ## 📧 Мои контакты
 
