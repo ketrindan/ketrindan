@@ -11,10 +11,8 @@
 
 ## 🛠️ Мой стек
 
-<div>
-<p align="right" justify="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px"/></p>
-
-<p justify="start">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px" align="right"/>
+<p>
 <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React"/>
 <img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML"/>
@@ -25,8 +23,6 @@
 <img src="https://img.shields.io/badge/Git-grey?logo=git&style=plastic" alt="Git"/>
 <img src="https://img.shields.io/badge/Figma-grey?logo=figma&logoColor=violet&style=plastic" alt="Figma"/>
 </p>
-
-</div>
 
 ## 🎓 Учусь
 
