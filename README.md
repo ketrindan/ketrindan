@@ -14,7 +14,7 @@
 <div>
 <p align="right" justify="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px"/></p>
 
-<p>
+<p justify="start">
 <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React"/>
 <img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML"/>
