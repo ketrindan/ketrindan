@@ -11,6 +11,8 @@
 
 ## 🛠️ Мой стек
 
+<div width=100%>
+
 <p align="right" justify="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px"/></p>
 
 <p width="50%">
@@ -25,6 +27,8 @@
 <img src="https://img.shields.io/badge/Figma-grey?logo=figma&logoColor=violet&style=plastic" alt="Figma"/>
 </p>
 
+</div>
+
 ## 🎓 Учусь
 
 <p>
@@ -36,14 +40,11 @@
 
 ## 📈 Моя статистика
 
-<p align="center">
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ketrindan&theme=dark&background=000000" alt="github-streak-stats" /></p>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ketrindan&theme=dark&background=000000" alt="github-streak-stats" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ketrindan&show_icons=true&theme=dark&background=000000" height="170px" alt="github-stats"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindan&layout=compact&theme=dark&background=000000" height="170px" alt="top-langs-stats"/></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ketrindan&show_icons=true&theme=dark&background=000000" height="170px" alt="github-stats"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindan&layout=compact&theme=dark&background=000000" height="170px" alt="top-langs-stats"/>
-
-![Codewars](https://www.codewars.com/users/KetrinDan/badges/large)
-</p>
+<p align="center">![Codewars](https://www.codewars.com/users/KetrinDan/badges/large)</p>
 
 ## 📧 Мои контакты
 
