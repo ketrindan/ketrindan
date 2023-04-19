@@ -11,36 +11,36 @@
 
 ## 🛠️ Мой стек
 
-<p align="right" justify="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px"></p>
+<p align="right" justify="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px"/></p>
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React">
-<img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue&style=plastic" alt="CSS">
-<img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js">
-<img src="https://img.shields.io/badge/Webpack-grey?logo=webpack&style=plastic" alt="Webpack">
-<img src="https://img.shields.io/badge/Postman-grey?logo=postman&style=plastic" alt="Postman">
-<img src="https://img.shields.io/badge/Git-grey?logo=git&style=plastic" alt="Git">
-<img src="https://img.shields.io/badge/Figma-grey?logo=figma&logoColor=violet&style=plastic" alt="Figma">
+<p width="50%">
+<img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React"/>
+<img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue&style=plastic" alt="CSS"/>
+<img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Webpack-grey?logo=webpack&style=plastic" alt="Webpack"/>
+<img src="https://img.shields.io/badge/Postman-grey?logo=postman&style=plastic" alt="Postman"/>
+<img src="https://img.shields.io/badge/Git-grey?logo=git&style=plastic" alt="Git"/>
+<img src="https://img.shields.io/badge/Figma-grey?logo=figma&logoColor=violet&style=plastic" alt="Figma"/>
 </p>
 
 ## 🎓 Учусь
 
 <p>
-<img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript&style=plastic" alt="TypeScript">
-<img src="https://img.shields.io/badge/Redux-grey?logo=redux&style=plastic" alt="Redux">
-<img src="https://img.shields.io/badge/WebSocket-grey?logo=websocket&style=plastic" alt="WebSocket">
-<img src="https://img.shields.io/badge/Jest-grey?logo=jest&style=plastic" alt="Jest">
+<img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript&style=plastic" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Redux-grey?logo=redux&style=plastic" alt="Redux"/>
+<img src="https://img.shields.io/badge/WebSocket-grey?logo=websocket&style=plastic" alt="WebSocket"/>
+<img src="https://img.shields.io/badge/Jest-grey?logo=jest&style=plastic" alt="Jest"/>
 </p>
 
 ## 📈 Моя статистика
 
-<p align="center" width="100%">
+<p align="center">
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ketrindan&theme=dark&background=000000)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ketrindan&theme=dark&background=000000" alt="github-streak-stats" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketrindan&show_icons=true&theme=dark&background=000000)&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindan&layout=compact&theme=dark&background=000000)
+<img src="https://github-readme-stats.vercel.app/api?username=ketrindan&show_icons=true&theme=dark&background=000000" height="170px" alt="github-stats"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindan&layout=compact&theme=dark&background=000000" height="170px" alt="top-langs-stats"/>
 
 ![Codewars](https://www.codewars.com/users/KetrinDan/badges/large)
 </p>
@@ -48,7 +48,7 @@
 ## 📧 Мои контакты
 
 <p>
-[<img src="https://www.flaticon.com/free-icon/email_3686989" width="25px" alt="Email">](mailto:keitilins@yandex.ru)
-[<img src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png?raw=true" width="25px" alt="Telegram">](https://t.me/ketrin_dan)
-[<img src="https://github.com/github/explore/blob/main/topics/vk/vk.png?raw=true" align="left" width="25px" alt="vk">](https://vk.com/id58924783)
+<a href="mailto:keitilins@yandex.ru"><img src="./icons/email.png" width="25px" alt="Email"/></a>
+<a href="https://t.me/ketrin_dan"><img src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png?raw=true" width="25px" alt="Telegram"/></a>
+<a href="https://vk.com/id58924783"><img src="https://github.com/github/explore/blob/main/topics/vk/vk.png?raw=true" width="25px" alt="vk"/></a>
 </p>
