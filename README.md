@@ -37,7 +37,7 @@
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=ketrindan&theme=dark&background=000000" alt="github-streak-stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ketrindan&show_icons=true&theme=dark&background=000000" height="170px" alt="github-stats"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketrindan&layout=compact&theme=dark&background=000000" height="170px" alt="top-langs-stats"/></p>
+<p align="center"><img src="https://github-readme-stats-nine-mu-27.vercel.app/api?username=ketrindan&show_icons=true&theme=dark&background=000000" height="170px" alt="github-stats"/>&nbsp;<img src="https://github-readme-stats-nine-mu-27.vercel.app/api/top-langs/?username=ketrindan&layout=compact&theme=dark&background=000000" height="170px" alt="top-langs-stats"/></p>
 
 <p align="center"><img src="https://www.codewars.com/users/KetrinDan/badges/large" alt="codewars"/></p>
 
