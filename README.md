@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React"/>
 <img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue&style=plastic" alt="CSS"/>
-<img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js"/> <br>
+<img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Webpack-grey?logo=webpack&style=plastic" alt="Webpack"/>
 <img src="https://img.shields.io/badge/Postman-grey?logo=postman&style=plastic" alt="Postman"/>
 <img src="https://img.shields.io/badge/Git-grey?logo=git&style=plastic" alt="Git"/>
