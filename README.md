@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Катя <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <br> Я начинающий frontend-разработчик</h1>
+<h1 align="center">Привет, меня зовут Катя <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <br> Я frontend-разработчик</h1>
 
 ## 👩‍💻 Обо мне
 
@@ -45,5 +45,4 @@
 <p>
 <a href="mailto:keitilins@yandex.ru"><img src="./icons/email.png" width="25px" alt="Email"/></a>
 <a href="https://t.me/ketrin_dan"><img src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png?raw=true" width="25px" alt="Telegram"/></a>
-<a href="https://vk.com/id58924783"><img src="https://github.com/github/explore/blob/main/topics/vk/vk.png?raw=true" width="25px" alt="vk"/></a>
 </p>
