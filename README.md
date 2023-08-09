@@ -29,8 +29,8 @@
 <img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript&style=plastic" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Redux-grey?logo=redux&style=plastic" alt="Redux"/>
 <img src="https://img.shields.io/badge/WebSocket-grey?logo=websocket&style=plastic" alt="WebSocket"/>
-<img src="https://img.shields.io/badge/Jest-grey?logo=jest&style=plastic" alt="Jest"/>
-<img src="https://img.shields.io/badge/Cypress-grey?logo=cypress&style=plastic" alt="Cypress"/>
+<img src="https://img.shields.io/badge/Jest-grey?logo=jest&logoColor=orange&style=plastic" alt="Jest"/>
+<img src="https://img.shields.io/badge/Cypress-grey?logo=cypress&logoColor=green&style=plastic" alt="Cypress"/>
 </p>
 
 ## 📈 Моя статистика
