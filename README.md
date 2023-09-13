@@ -8,9 +8,10 @@
 * Хочу создавать то, что полезно, удобно и радует глаз
 * Стремлюсь писать аккуратный код и прокачивать свои навыки
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px" align="right"/>
+
 ## 🛠️ Мой стек
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px" align="right"/>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React" />
