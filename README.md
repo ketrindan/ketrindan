@@ -13,24 +13,24 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px" align="right"/>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript" width="100px"/>
-<img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React"/>
-<img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue&style=plastic" alt="CSS"/>
-<img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Webpack-grey?logo=webpack&style=plastic" alt="Webpack"/>
-<img src="https://img.shields.io/badge/Postman-grey?logo=postman&style=plastic" alt="Postman"/>
-<img src="https://img.shields.io/badge/Git-grey?logo=git&style=plastic" alt="Git"/>
-<img src="https://img.shields.io/badge/Figma-grey?logo=figma&logoColor=violet&style=plastic" alt="Figma"/>
+<img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React" width="100px"/>
+<img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML" width="100px"/>
+<img src="https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue&style=plastic" alt="CSS" width="100px"/>
+<img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js" width="100px"/>
+<img src="https://img.shields.io/badge/Webpack-grey?logo=webpack&style=plastic" alt="Webpack" width="100px"/>
+<img src="https://img.shields.io/badge/Postman-grey?logo=postman&style=plastic" alt="Postman" width="100px"/>
+<img src="https://img.shields.io/badge/Git-grey?logo=git&style=plastic" alt="Git" width="100px"/>
+<img src="https://img.shields.io/badge/Figma-grey?logo=figma&logoColor=violet&style=plastic" alt="Figma" width="100px"/>
 </p>
 
 ## 🎓 Учусь
 
 <p>
-<img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript&style=plastic" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Redux-grey?logo=redux&style=plastic" alt="Redux"/>
-<img src="https://img.shields.io/badge/WebSocket-grey?logo=websocket&style=plastic" alt="WebSocket"/>
-<img src="https://img.shields.io/badge/Jest-grey?logo=jest&logoColor=orange&style=plastic" alt="Jest"/>
-<img src="https://img.shields.io/badge/Cypress-grey?logo=cypress&logoColor=green&style=plastic" alt="Cypress"/>
+<img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript&style=plastic" alt="TypeScript" width="100px"/>
+<img src="https://img.shields.io/badge/Redux-grey?logo=redux&style=plastic" alt="Redux" width="100px"/>
+<img src="https://img.shields.io/badge/WebSocket-grey?logo=websocket&style=plastic" alt="WebSocket" width="100px"/>
+<img src="https://img.shields.io/badge/Jest-grey?logo=jest&logoColor=orange&style=plastic" alt="Jest" width="100px"/>
+<img src="https://img.shields.io/badge/Cypress-grey?logo=cypress&logoColor=green&style=plastic" alt="Cypress" width="100px"/>
 </p>
 
 ## 📈 Моя статистика
