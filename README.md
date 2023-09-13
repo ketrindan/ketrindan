@@ -1,10 +1,9 @@
 <h1 align="center">Привет, меня зовут Катя <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <br> Я frontend-разработчик</h1>
 
 ## 👩‍💻 Обо мне
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px" align="right"/>
 
 Я закончила курсы "Веб-разработчик" и "React-разработчик" Я.Практикума и продолжаю расширять свои навыки.
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px" align="right"/>
 
 * Люблю видеть результат своей работы
 * Хочу создавать то, что полезно, удобно и радует глаз
