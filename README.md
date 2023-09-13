@@ -21,8 +21,8 @@
 <img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js" />
 <img src="https://img.shields.io/badge/Webpack-grey?logo=webpack&style=plastic" alt="Webpack" />
 <img src="https://img.shields.io/badge/Postman-grey?logo=postman&style=plastic" alt="Postman" />
-<img src="https://img.shields.io/badge/Git-grey?logo=git&style=plastic" alt="Git" width="70px" />
-  <img src="https://img.shields.io/badge/WebSocket-grey?logo=websocket&style=plastic" alt="WebSocket" />
+<img src="https://img.shields.io/badge/Git-grey?logo=git&style=plastic" alt="Git" />
+<img src="https://img.shields.io/badge/WebSocket-grey?logo=websocket&style=plastic" alt="WebSocket" />
 <img src="https://img.shields.io/badge/Jest-grey?logo=jest&logoColor=orange&style=plastic" alt="Jest" />
 <img src="https://img.shields.io/badge/Cypress-grey?logo=cypress&logoColor=green&style=plastic" alt="Cypress" />
 <img src="https://img.shields.io/badge/Figma-grey?logo=figma&logoColor=violet&style=plastic" alt="Figma" />
