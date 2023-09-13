@@ -12,7 +12,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif" width="320px" align="right"/>
 <p>
-<img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript" width="40px"/>
+<img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript" width="100px"/>
 <img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React"/>
 <img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue&style=plastic" alt="CSS"/>
