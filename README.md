@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript&style=plastic" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript&style=plastic" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Redux-grey?logo=redux&style=plastic" alt="Redux" width="100px"/>
+<img src="https://img.shields.io/badge/Redux-grey?logo=redux&style=plastic" alt="Redux" />
 <img src="https://img.shields.io/badge/HTML-grey?logo=html5&style=plastic" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue&style=plastic" alt="CSS" />
 <img src="https://img.shields.io/badge/Node.js-grey?logo=node.js&style=plastic" alt="Node.js" />
